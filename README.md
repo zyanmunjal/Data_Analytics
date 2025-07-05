@@ -1,44 +1,41 @@
-# Imarticus Virtual Internship Program 2025 🚀
+# Imarticus Virtual Internship Program 2025 🚀  
+Welcome to the documentation of my journey through the **Imarticus Virtual Internship Program – 2025 Edition**!
 
-Welcome to the documentation of my journey through the **Imarticus Virtual Internship Program - 2025 Edition**!  
-This repository showcases the key learnings, hands-on projects, and skill-building tasks I completed over the course of the internship.
+This repository showcases my key learnings, hands-on projects, and data-driven solutions built during this internship — combining SQL, Python, EDA, and real-world case studies.
 
 ---
 
 ## 🧠 What I Learned
 
-Over the span of this internship, I’ve explored and deepened my knowledge in:
+Over the span of this internship, I’ve explored and strengthened my skills in:
 
-- **SQL** – Built and queried databases using `CREATE`, `INSERT`, `SELECT`, `JOIN`, and more.
-- **Exploratory Data Analysis (EDA)** using Python (Pandas, Matplotlib, Seaborn)
-- **Data Cleaning** and preparation techniques
-- **Professional & Personal Branding**
-- Real-world business problem-solving through a structured, industry-oriented curriculum.
+- **SQL** – Built and queried databases using `CREATE`, `INSERT`, `SELECT`, `JOIN`, `GROUP BY`, and more.
+- **Exploratory Data Analysis (EDA)** using Python (`pandas`, `matplotlib`, `seaborn`)
+- **Data cleaning and preprocessing** for meaningful insights
+- **Business Communication** & **Personal Branding** for the corporate world
+- **Real-world analytics problem-solving** using structured, industry-focused datasets
 
 ---
 
 ## ✅ Projects Completed
 
-1. **MySQL Database Project**  
-   Designed and populated relational tables, explored joins, aggregations, and complex queries.
+### 📊 1. MySQL Database Project
+Designed and populated relational tables from scratch.  
+Executed queries to extract insights using **joins, aggregations**, and **conditional filters**.
 
-2. **EDA with Python** (In Progress)  
-   Currently performing data cleaning and visualization on real-world datasets.
+### 🧪 2. Student Alcohol Consumption Analysis (ML + EDA Project)
+Analyzed multivariate relationships between student behavior, academics, and alcohol consumption.
+Performed data cleaning, visualization, and built ML models to classify alcohol risk levels with high accuracy.
 
----
-
-## 🙏 Gratitude
-
-Big thanks to the **Imarticus Learning team** and our incredible mentors for the continuous guidance and support.
 ---
 
 ## 💼 Skills Sharpened
 
-- Python (Pandas, NumPy, Matplotlib)
-- SQL for Data Analysis
-- Business Communication & Branding
-- Data Interpretation and Insights
+- Python (`pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`)
+- SQL for data analysis
+- Business communication & branding
 - Git & GitHub for version control
+- Team collaboration on real-world projects
 
 ---
 
@@ -46,17 +43,22 @@ Big thanks to the **Imarticus Learning team** and our incredible mentors for the
 
 - MySQL
 - Jupyter Notebook
-- Excel
+- Microsoft Excel
 - Git & GitHub
-- Zoom (Mentorship sessions)
+- Zoom (Mentorship sessions & check-ins)
 
 ---
 
 ## 📅 Duration
 
-**June 2025 – July 2025 **  
-Currently at the **midpoint** of the internship. Excited to dive deeper into the next phase of hands-on analytics work!
+**June 2025 – July 2025**  
+Currently at the midpoint of the internship. Excited to dive deeper into the next phase — from insights to impact.
 
 ---
 
+## 🙏 Gratitude
+
+Huge thanks to the **Imarticus Learning team**, our mentors, and peers for guiding us through every challenge and helping us level up as data professionals-in-the-making.
+
+---
 
